@@ -1,4 +1,4 @@
-<h1>Welcome To My Page 👋</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Page&fontSize=40)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&lines=Full-Stack+Developer;Comic+Collector" style="opacity: 1.0;" />
 
