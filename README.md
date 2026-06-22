@@ -1,12 +1,12 @@
 ## Welcome To My Page 👋
 
-## Full-Stack Developer
-## allenry99@gmail.com
+Full-Stack Developer
+allenry99@gmail.com
 
 
-## • Studying Full-Stack Web Dev at ASU, graduating August 2026
-## • Currently building a comic book & collectible e-commerce site
-## • Exploring cybersecurity and IT fundamentals
+• Studying Full-Stack Web Dev at ASU, graduating August 2026
+• Currently building a comic book & collectible e-commerce site
+• Exploring cybersecurity and IT fundamentals
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="21.3(60)" ?>
 <?aid SnippetType="PageItem"?>
