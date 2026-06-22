@@ -1,6 +1,6 @@
 <h1>Welcome To My Page 👋</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7CC&lines=Full-Stack+Developer;Comic+Collector) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&lines=Full-Stack+Developer;Comic+Collector" style="opacity: 0.7;" />
 
 allenry99@gmail.com <br> 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
