@@ -1,6 +1,6 @@
 <h1>Welcome To My Page 👋</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&lines=Full-Stack+Developer;Comic+Collector;Always+Shipping)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7CC&lines=Full-Stack+Developer;Comic+Collector)
 
 Full-Stack Developer <br> 
 allenry99@gmail.com <br> 
