@@ -9,4 +9,7 @@ allenry99@gmail.com <br>
 • Exploring cybersecurity and IT fundamentals <br> 
 
 
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+
 <img width="712" height="431" alt="images" src="https://github.com/user-attachments/assets/2ab432fe-e183-473a-b706-dbe649a45588" />
