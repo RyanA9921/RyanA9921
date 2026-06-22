@@ -1,10 +1,11 @@
 <h1>Welcome To My Page 👋</h1>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&lines=Full-Stack+Developer;Comic+Collector;Always+Shipping)
+
 Full-Stack Developer <br> 
 allenry99@gmail.com <br> 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
-<img width="300" height="100" alt="images" src="https://github.com/user-attachments/assets/2ab432fe-e183-473a-b706-dbe649a45588" />
 
 
 • Studying Full-Stack Web Dev at ASU, graduating August 2026  <br>
